@@ -1,7 +1,7 @@
 # projeto1
 # 🎬 Streaming Projeto
 
-Projeto backend de uma **plataforma de streaming de vídeos**, onde usuários podem cadastrar, comentar e excluir vídeos. O foco é oferecer uma estrutura organizada e escalável, com logs de erros, banco de dados MongoDB e rotas bem definidas.
+Projeto backend de uma **plataforma de streaming de vídeos**, onde usuários podem cadastrar, comentar e excluir vídeos. O foco é oferecer uma estrutura organizada e escalável, com logs de erros, banco de dados MySQL e rotas bem definidas.
 
 ## 🎯 Tema do Projeto
 
