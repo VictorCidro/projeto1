@@ -51,28 +51,28 @@ Essa opção é útil para validar o comportamento do sistema de forma
 
 
 
-## 💻 PROMPT PARA EXECUTAR O PROJETO BACKEND DE STREAMING COM MYSQL
+### 💻 PROMPT PARA EXECUTAR O PROJETO BACKEND DE STREAMING COM MYSQL
 
-## 1. Clone o repositório
+### 1. Clone o repositório
 git clone https://github.com/seu-usuario/streaming-projeto.git
 cd streaming-projeto
 
-## 2. Instale as dependências do Node.js
+### 2. Instale as dependências do Node.js
 npm install
 
-## 3. Configure as variáveis de ambiente
-## Crie um arquivo .env com o seguinte conteúdo:
+### 3. Configure as variáveis de ambiente
+### Crie um arquivo .env com o seguinte conteúdo:
 echo "PORT=3000
 DB_HOST=localhost
 DB_USER=seu_usuario_mysql
 DB_PASSWORD=sua_senha_mysql
 DB_NAME=nome_do_banco" > .env
 
-## 4. Execute o script de criação do database no sql
+### 4. Execute o script de criação do database no sql
 
-## 5. Certifique-se de que o MySQL está rodando e o banco está criado
+### 5. Certifique-se de que o MySQL está rodando e o banco está criado
 
-## 6. Execute a aplicação
+### 6. Execute a aplicação
 node app.js
 
 
