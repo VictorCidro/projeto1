@@ -68,9 +68,9 @@ DB_USER=seu_usuario_mysql
 DB_PASSWORD=sua_senha_mysql
 DB_NAME=nome_do_banco" > .env
 
-## 4. Certifique-se de que o MySQL está rodando e o banco está criado
+## 4. Execute o script de criação do database no sql
 
-## 5. (Opcional) Execute scripts SQL de criação de tabelas, se houver
+## 5. Certifique-se de que o MySQL está rodando e o banco está criado
 
 ## 6. Execute a aplicação
 node app.js
